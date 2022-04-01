@@ -31,5 +31,24 @@ img {
     border: 8px solid limegreen;
     display: block;
     margin-left: auto;
-    margin-right: auto;    
+    margin-right: auto;
+}
+
+table {
+    text-align: center;
+    border-collapse: collapse;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+thead {
+    background-color: dimgray;
+    color: white;    
+}
+
+th,
+td {
+    border: 1px solid black;
+    width: 200px;
 }

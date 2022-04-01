@@ -1,5 +1,14 @@
 #voce-sabia {
     border: 3px solid limegreen;
     padding: 10px;
-    background-image: "imagens\fundo.png";
+    background-image: url(\imagens\fundo.png);
+}
+
+#body-loja {
+    background-image: url(\imagens\desenho-loucao.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: cover;
+    min-height: 100%;
 }
