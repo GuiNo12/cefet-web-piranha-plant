@@ -44,11 +44,12 @@ table {
 
 thead {
     background-color: dimgray;
-    color: white;    
+    color: white;
 }
 
 th,
 td {
-    border: 1px solid black;
+    border: 2px solid black;
     width: 200px;
+    padding: 3px;
 }
