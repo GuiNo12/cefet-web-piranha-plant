@@ -3,6 +3,7 @@ p {
 }
 
 body {
+    padding-top: 10px;
     margin-left: 10%;
     margin-right: 10%;
     font-family: "Arial", sans-serif;
@@ -23,6 +24,7 @@ h2 {
 
 blockquote {
     margin-left: 60px;
+    margin-right: auto;
     text-align: justify;
 }
 
